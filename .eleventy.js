@@ -16,6 +16,7 @@ module.exports = function (eleventyConfig) {
     'md',
   ]);
   eleventyConfig.addPassthroughCopy('assets');
+  eleventyConfig.addPassthroughCopy('_headers');
 
   /* From: https://github.com/artstorm/eleventy-plugin-seo
   
