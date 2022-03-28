@@ -1,0 +1,141 @@
+:root {
+  --color-bg: #0d1614;
+  --color-text-main: #00ff9d;
+  --color-primary: #afece0;
+  --wrapper-height: 85vh;
+  --image-max-width: 320px;
+  --font-family: 'Inconsolata';
+  --font-family-header: 'Inconsolata';
+}
+
+/* Basic page style resets */
+* {
+  box-sizing: border-box;
+}
+[hidden] {
+  display: none !important;
+}
+
+/* Import fonts */
+@font-face {
+  font-family: Inconsolata;
+  src: url('/assets/fonts/Inconsolata/Inconsolata-Regular.ttf')
+    format('truetype');
+}
+@font-face {
+  font-family: Inconsolata;
+  font-weight: bold;
+  src: url('/assets/fonts/Inconsolata/Inconsolata-Black.ttf') format('truetype');
+}
+
+/* Page structure */
+body {
+  font-family: var(--font-family);
+  background-color: var(--color-bg);
+  color: var(--color-text-main);
+}
+.wrapper {
+  min-height: var(--wrapper-height);
+  place-items: center;
+  margin: 3rem 2rem 0;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Typography */
+p {
+  margin: 0 0 1rem 0;
+  line-height: 1.5 !important;
+  font-size: 1.3rem;
+  color: var(--color-text-main);
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 2rem 0 0.8rem;
+  font-family: var(--font-family-header);
+  font-weight: 600;
+  line-height: 1.1;
+  color: var(--color-text-main);
+}
+h1 {
+  margin-top: 1rem;
+  margin-bottom: 1.75rem;
+  font-size: 5rem;
+  display: inline-flex;
+}
+h2 {
+  font-size: 4rem;
+}
+h3 {
+  font-size: 2rem;
+}
+h4 {
+  font-size: 1.5rem;
+}
+h5 {
+  font-size: 1.25rem;
+}
+small,
+.text_small {
+  font-size: 0.8rem;
+}
+ul > li,
+ol > li {
+  margin-bottom: 0.75rem;
+  line-height: 1.5;
+  font-size: 1.3rem;
+}
+ul {
+  padding: 0 0 0 18px;
+  margin: 0;
+}
+ul.no-bullet {
+  list-style-type: none;
+}
+
+/* Link styles */
+a:not(.btn--remix):link,
+a:not(.btn--remix):visited {
+  text-decoration: none;
+  border-bottom: 2px dotted var(--color-primary);
+  color: var(--color-text-main);
+  transition: background 0.05s linear;
+}
+a:hover {
+  background: var(--color-primary);
+  color: var(--color-bg);
+}
+
+/* Title style adjustments */
+.title-lg {
+  color: var(--color-text-main);
+  font-family: Inconsolata;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 1.5;
+}
+.title-md {
+  font-size: 56px;
+}
+
+/* Layout: Home */
+.home {
+  justify-content: left;
+}
+.illo-container {
+  display: flex;
+  justify-content: flex-end;
+}
+.illustration {
+  max-width: 200px;
+  max-height: var(--image-max-width);
+  margin-top: 1rem;
+  margin-right: 2rem;
+}
