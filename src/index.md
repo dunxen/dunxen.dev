@@ -10,6 +10,9 @@ layout: layouts/home.njk
 
 Bitcoin and Lightning contributor mostly spending time around [LDK](https://lightningdevkit.org) and [Bitcoin Core](https://github.com/bitcoin/bitcoin). Building [umbani.app](https://umbani.app) for iOS and Android.
 
+### Other resources
+- ✍🏻 My blog at [blog.dunxen.dev](https://blog.dunxen.dev)
+
 ### Past
 - [Luno](https://luno.com) (April 2019 - February 2022)
 - BSc Physics at the University of Pretoria
