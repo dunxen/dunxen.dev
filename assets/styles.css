@@ -37,7 +37,7 @@ body {
 .wrapper {
   min-height: var(--wrapper-height);
   place-items: center;
-  margin: 3rem 2rem 0;
+  margin: 3rem 2rem 2rem;
 }
 .content {
   display: flex;
@@ -138,4 +138,40 @@ a:hover {
   max-height: var(--image-max-width);
   margin-top: 1rem;
   margin-right: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 3.5rem;
+  }
+
+  .illustration {
+    max-width: 150px;
+    max-height: var(--image-max-width);
+    margin-top: 1rem;
+    margin-right: 2rem;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  h1 {
+    font-size: 3rem;
+  }
+
+  .illustration {
+    max-width: 100px;
+    margin-top: 0rem;
+    margin-right: 1rem;
+  }
+
+  p {
+    font-size: 1.1rem;
+  }
+
+  ul > li,
+  ol > li {
+    margin-bottom: 0.75rem;
+    line-height: 1.5;
+    font-size: 1.1rem;
+  }
 }

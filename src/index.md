@@ -3,7 +3,7 @@ layout: layouts/home.njk
 ---
 
 <div class="illo-container">
-  <img src="/assets/images/moon.png" class="illustration" style="align: right" alt="Eleventy!">
+  <img src="/assets/images/moon.png" class="illustration" alt="Moon">
 </div>
 
 # dunxen.dev
