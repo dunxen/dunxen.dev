@@ -8,14 +8,22 @@ layout: layouts/home.njk
 
 # dunxen.dev
 
-Bitcoin and Lightning contributor mostly spending time around [LDK](https://lightningdevkit.org) and [Bitcoin Core](https://github.com/bitcoin/bitcoin). Building [umbani.app](https://umbani.app) for iOS and Android.
+I am a Bitcoin and Lightning Network contributor mostly spending time around [LDK](https://lightningdevkit.org) and [Bitcoin Core](https://github.com/bitcoin/bitcoin). Building [umbani.app](https://umbani.app), a new Bitcoin/LN wallet focusing on 🇿🇦 for iOS and Android, using [BDK](https://bitcoindevkit.org), LDK, and [Nakamoto](https://github.com/cloudhead/nakamoto).
+
+Mentor, mentee, and continuously learning.
 
 ### Other resources
 - ✍🏻 My blog at [blog.dunxen.dev](https://blog.dunxen.dev)
 
 ### Past
-- [Luno](https://luno.com) (April 2019 - February 2022)
-- BSc Physics at the University of Pretoria
+- 🚀 [Luno](https://luno.com) (April 2019 - February 2022)
+- ⚛️ BSc Physics at the University of Pretoria
+
+### Some interests & future things to do
+- 📚 [Reading](https://www.goodreads.com/user/show/76654301-dunxen)
+- 📡 Working towards an Amateur Radio License
+- 🌌 Amateur Radio Astronomy
+- 📮 Creating a somewhat unreliable and mostly harmless ISP
 
 ### Social
 - 🐦 [@dunxen](https://twitter.com/dunxen) on Twitter
