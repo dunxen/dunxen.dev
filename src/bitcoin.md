@@ -4,7 +4,7 @@ layout: layouts/home.njk
 
 # Bitcoin Resources
 
-(Shamelessly stolen from [@willcl-ark](https://github.com/willcl-ark) to be expanded upon)
+(Shamelessly stolen from [@willcl-ark](https://github.com/willcl-ark) and expanded upon)
 
 ### Technical
 
@@ -23,6 +23,9 @@ layout: layouts/home.njk
 * [Why is it taking 20 minutes to mine this block? (memoryless mining)](https://r6.ca/blog/20180225T160548Z.html)
 * [Compact Block Filters Deep Dive (BIP158)](https://bitcoin-dev.blog/blog/bip158-deep-dive/)
 * [Schnorr Basics](https://bitcoin-dev.blog/blog/schnorr-basics/)
+* [learn me a bitcoin](https://learnmeabitcoin.com/)
+* [mempool.observer](https://mempool.observer)
+* [transactionfee.info](https://transactionfee.info/) - Really cool Bitcoin stats and pretty graphs!
 
 ### Economics
 
@@ -63,3 +66,5 @@ layout: layouts/home.njk
 * [Books recommended by Bitcoiners (all genres)](https://www.bitcoinerbooks.com/)
 * [Search Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/search?q=%s)
 * [Freelancing platforms which pay in Bitcoin](https://cointastical.medium.com/freelancing-platforms-which-pay-in-bitcoin-e38be56166df)
+
+<br><br><br><br>

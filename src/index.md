@@ -16,7 +16,7 @@ I'm building [Umbani](https://umbani.app), a new Bitcoin/LN wallet focusing on �
 - [BDK](https://bitcoindevkit.org)
 - [LDK](https://lightningdevkit.org)
 - [Nakamoto](https://github.com/cloudhead/nakamoto) as an SPV node
-- [libtor](https://github.com/magicalbitcoin/libtor) and eventually [Arti](https://gitlab.torproject.org/tpo/core/arti/)
+- [Arti](https://gitlab.torproject.org/tpo/core/arti/)
 
 ### Other links & resources
 - ✍🏻 My blog at [blog.dunxen.dev](https://blog.dunxen.dev)
@@ -24,6 +24,7 @@ I'm building [Umbani](https://umbani.app), a new Bitcoin/LN wallet focusing on �
 - 🐙 [@dunxen](https://github.com/dunxen) on GitHub
 - 💬 dunxen on [Libera.Chat](https://libera.chat/) IRC
 - 🔑 [9484 44FC E03B 05BA 5AB0](https://keys.openpgp.org/search?q=948444FCE03B05BA5AB0591EC37B1C1D44C786EE)
+- 🗺 [asmap](/asmap) 
 
 ### Some current interests & future things I'd like to do
 - 📚 [Reading](https://www.goodreads.com/user/show/76654301-dunxen)
@@ -34,5 +35,7 @@ I'm building [Umbani](https://umbani.app), a new Bitcoin/LN wallet focusing on �
 <br><br><br><br>
 
 _Mostly_ harmless
+<br>
+[₿ Resources](/bitcoin)
 
 <br><br>

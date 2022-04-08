@@ -4,7 +4,7 @@ layout: layouts/home.njk
 
 # asmap
 
-Currently opt-in in Bitcoin Core since 0.20, asmap is a change to how Bitcoin Core ensures that it connects to a diverse set of outbound peers beyond just netgroup bucketing. It considers IP-to-ASN mappings to ensure diversity instead. ASNs (Autonomous System Numbers) are a scarcer resource than netgroups, and the mapping passed to Bitcoin Core 
+Currently opt-in in Bitcoin Core since 0.20, asmap is a change to how Bitcoin Core ensures that it connects to a diverse set of outbound peers beyond just netgroup bucketing. It considers IP-to-ASN mappings to ensure diversity instead. ASNs (Autonomous System Numbers) are a scarcer resource than netgroups, and the mapping passed to Bitcoin Core by default map the gateway ASNs (bottlenecks) for IPs which have sole control over what a node with that IP would see (since P2P connections are currently not encrypted).
 
 ### Background reading
 
@@ -27,3 +27,5 @@ Currently opt-in in Bitcoin Core since 0.20, asmap is a change to how Bitcoin Co
 * We need a comparison tool to compare two encoded asmaps to determine how much they have changed. We may also want to compare the original non-encoded files too for auditability.
 * We need to have a way to combine/sanitise the RIPE RIS data with another source that is more trusted.
 * We need a consensus on what the steps for maintainers will be to update the asmap.
+
+<br><br><br><br>
