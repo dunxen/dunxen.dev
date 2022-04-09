@@ -18,24 +18,29 @@ I'm building [Umbani](https://umbani.app), a new Bitcoin/LN wallet focusing on �
 - [Nakamoto](https://github.com/cloudhead/nakamoto) as an SPV node
 - [Arti](https://gitlab.torproject.org/tpo/core/arti/)
 
-### Other links & resources
+### My links & resources
 - ✍🏻 My blog at [blog.dunxen.dev](https://blog.dunxen.dev)
+- ⚛️ [The illegal physicist](/physics)
+- 📚 [My reading list](/reading)
+- 🗺 [asmap](/asmap)
+- [₿itcoin Resources](/bitcoin)
+
+### Social profiles
+- 🐘 @dunxen.x0f.org on Mastodon
 - 🐦 [@dunxen](https://twitter.com/dunxen) on Twitter
 - 🐙 [@dunxen](https://github.com/dunxen) on GitHub
 - 💬 dunxen on [Libera.Chat](https://libera.chat/) IRC
-- 🔑 [9484 44FC E03B 05BA 5AB0](https://keys.openpgp.org/search?q=948444FCE03B05BA5AB0591EC37B1C1D44C786EE)
-- 🗺 [asmap](/asmap) 
 
 ### Some current interests & future things I'd like to do
-- 📚 [Reading](https://www.goodreads.com/user/show/76654301-dunxen)
 - 📡 Working towards an Amateur Radio License
 - 🌌 Amateur Radio Astronomy
 - 📮 Creating a somewhat unreliable and mostly harmless ISP
 
-<br><br><br><br>
+<br><br>
+
+🔑 [9484 44FC E03B 05BA 5AB0](https://keys.openpgp.org/search?q=948444FCE03B05BA5AB0591EC37B1C1D44C786EE)
 
 _Mostly_ harmless
 <br>
-[₿ Resources](/bitcoin)
 
 <br><br>
