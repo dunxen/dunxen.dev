@@ -58,7 +58,7 @@ layout: layouts/home.njk
 
 * [Lightning Network - Fundamental Limitations (Truthcoin)](http://www.truthcoin.info/blog/lightning-limitations/)
 
-### Misc
+### Miscellaneous
 
 * [In defense of Bitcoin Maximalism (Vitalk Buterin)](https://vitalik.ca/general/2022/04/01/maximalist.html)
 * [The Bitcoin Library](https://casebitcoin.com/library)
@@ -67,5 +67,3 @@ layout: layouts/home.njk
 * [Books recommended by Bitcoiners (all genres)](https://www.bitcoinerbooks.com/)
 * [Search Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/search?q=%s)
 * [Freelancing platforms which pay in Bitcoin](https://cointastical.medium.com/freelancing-platforms-which-pay-in-bitcoin-e38be56166df)
-
-<br><br><br><br>

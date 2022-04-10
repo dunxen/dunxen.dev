@@ -37,7 +37,7 @@ body {
 .wrapper {
   min-height: var(--wrapper-height);
   place-items: center;
-  margin: 3rem 2rem 2rem;
+  margin: 3rem 2rem 12rem;
 }
 .content {
   display: flex;

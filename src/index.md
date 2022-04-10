@@ -13,10 +13,10 @@ I am a Bitcoin and Lightning contributor mostly spending time around [LDK](https
 ### Umbani Wallet
 
 I'm building [Umbani](https://umbani.app), a new Bitcoin/LN wallet focusing on 🇿🇦 for iOS and Android, along with the UmbaniSDK for Flutter which will make use of:
-- [BDK](https://bitcoindevkit.org)
-- [LDK](https://lightningdevkit.org)
+- [BDK](https://bitcoindevkit.org) for Bitcoin wallet features
+- [LDK](https://lightningdevkit.org) for Lightning Network features
 - [Nakamoto](https://github.com/cloudhead/nakamoto) as an SPV node
-- [Arti](https://gitlab.torproject.org/tpo/core/arti/)
+- [Arti](https://gitlab.torproject.org/tpo/core/arti/) for Tor
 
 ### My links & resources
 - ✍🏻 My blog at [blog.dunxen.dev](https://blog.dunxen.dev)
@@ -41,6 +41,3 @@ I'm building [Umbani](https://umbani.app), a new Bitcoin/LN wallet focusing on �
 🔑 [9484 44FC E03B 05BA 5AB0](https://keys.openpgp.org/search?q=948444FCE03B05BA5AB0591EC37B1C1D44C786EE)
 
 _Mostly_ harmless
-<br>
-
-<br><br>
