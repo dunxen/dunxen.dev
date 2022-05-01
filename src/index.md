@@ -19,7 +19,7 @@ I'm building [Umbani](https://umbani.app), a new Bitcoin/LN wallet focusing on �
 - [Arti](https://gitlab.torproject.org/tpo/core/arti/) for Tor
 
 ### My links & resources
-- ✍🏻 My blog at [blog.dunxen.dev](https://blog.dunxen.dev)
+- ✍🏻 My blog at [dunxen.dev/blog](/blog)
 - ⚛️ [The illegal physicist](/physics)
 - 📚 [My reading list](/reading)
 - 🗺 [asmap](/asmap)

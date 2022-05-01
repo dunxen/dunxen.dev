@@ -6,9 +6,10 @@ templateClass: tmpl-home
 {# This is the template for individual blog posts–it builds the front matter properties into the page #}
 
 <div class="wrapper post">
-  <div>
+  <div class="content">
     {# The post front matter includes the title property #}
     <h1 class='post-title'>{{title}}</h1>
+    <time class='pub-date'>{{page.date|postDate}}</time>
 
     {# ADD P ELEMENT FROM TODO ON THE NEXT LINE #}
     

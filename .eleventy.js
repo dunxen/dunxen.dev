@@ -29,6 +29,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('yyyy-LL-dd');
   });
+  eleventyConfig.addFilter('postDate', (dateObj) => {
+    return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_FULL);
+  });
 
   eleventyConfig.setBrowserSyncConfig({ ghostMode: false });
 
