@@ -11,6 +11,8 @@ layout: layouts/home.njk
 1. [The Alchemist](https://www.goodreads.com/book/show/25076674-the-alchemist), by Paulo Coelho
 1. [1984](https://www.goodreads.com/book/show/3744438-1984), by George Orwell
 1. [Café in Berlin](https://www.goodreads.com/book/show/18806935-caf-in-berlin), by André Klein
+1. [It Doesn't Have to Be This Way](https://www.goodreads.com/book/show/60381673-it-doesn-t-have-to-be-this-way) by Alistair Mackay
+1. [Off to Be the Wizard](https://www.goodreads.com/book/show/32858845-off-to-be-the-wizard) by Scott Meyer
 1. [Cryptonomicon](https://www.goodreads.com/book/show/816.Cryptonomicon), by Neal Stephenson
 1. [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) by Douglas R. Hofstadter
 
