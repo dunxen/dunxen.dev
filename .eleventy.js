@@ -35,6 +35,10 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.setBrowserSyncConfig({ ghostMode: false });
 
+  const now = new Date();
+  const isDevMode = process.argv.includes('--serve');
+  const publishedPosts = (post) => post.date <= now && !post.data.draft || isDevMode;
+
   /* Build the collection of posts to list in the site
      - Read the Next Steps post to learn how to extend this
   */
@@ -45,7 +49,7 @@ module.exports = function (eleventyConfig) {
 
     // EDIT HERE WITH THE CODE FROM THE NEXT STEPS PAGE TO REVERSE CHRONOLOGICAL ORDER
     // (inspired by https://github.com/11ty/eleventy/issues/898#issuecomment-581738415)
-    const coll = collection.getFilteredByTag('posts');
+    const coll = collection.getFilteredByTag('posts').filter(publishedPosts);
 
     // From: https://github.com/11ty/eleventy/issues/529#issuecomment-568257426
     // Adds {{ prevPost.url }} {{ prevPost.data.title }}, etc, to our njks templates
