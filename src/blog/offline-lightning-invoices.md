@@ -16,7 +16,7 @@ If we wanted to enable Lightning payments on a vending machine, for example, you
 
 There are a few key elements to making this work.
 
-## Elliptic-curve Diffie-Hellman (ECDH)
+## Elliptic-Curve Diffie-Hellman (ECDH)
 
 ECDH allows us to use elliptic-curve public–private key pairs to establish a shared secret.
 
