@@ -1,12 +1,15 @@
+@import '/assets/fonts/inter.css';
+
 :root {
   --color-bg: #0d1614;
-  --color-text-main: #00ff9d;
+  --color-text-main: #7fd4b4;
   --color-primary: #afece0;
-  --color-accent: #cc6ba6;
+  --color-accent: #e9d985;
   --color-heading: #93bbb3;
+  --color-block-bg: #0f0f0f;
   --wrapper-height: 85vh;
   --image-max-width: 320px;
-  --font-family: 'Inconsolata';
+  --font-family: 'Inter';
   --font-family-header: 'Inconsolata';
 }
 
@@ -33,6 +36,7 @@
 /* Page structure */
 body {
   font-family: var(--font-family);
+  font-weight: 400;
   background-color: var(--color-bg);
   color: var(--color-text-main);
 }
@@ -51,7 +55,7 @@ body {
 /* Typography */
 p {
   margin: 0 0 1rem 0;
-  line-height: 1.5 !important;
+  line-height: 1.8 !important;
   font-size: 1.3rem;
   color: var(--color-text-main);
 }
@@ -101,6 +105,10 @@ ul {
 }
 ul.no-bullet {
   list-style-type: none;
+}
+
+pre code, p code {
+  font-family: Inconsolata;
 }
 
 /* Link styles */
@@ -158,8 +166,42 @@ a:hover {
   color: var(--color-accent);
   display: block;
   margin-top: 1em;
-  margin-bottom: 3em;
-  font-size: 1.2rem;
+  margin-bottom: 1.4em;
+  font-size: 1.6rem;
+  font-family: Inconsolata;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+pre {
+  margin: 1rem 0 2rem;
+  padding: 2em;
+  border-radius: 1em;
+  background: var(--color-block-bg); 
+  overflow: scroll;
+  border: 2px dashed;
+}
+
+pre code {
+  font-size: 1.3rem;
+  padding-right: 1.5rem;
+}
+
+p code {  
+  background: var(--color-block-bg);
+  padding: 0.1rem 0.3rem;
+  border-radius: 0.4rem;
+}
+
+.controls {
+  margin-top: 3rem;
+  background: black;
+  padding: 1.2rem;
+  border-radius: 1.8rem 0.6rem;
+}
+
+.controls p {
+  margin: 0;
 }
 
 @media screen and (max-width: 768px) {
@@ -194,7 +236,7 @@ a:hover {
     margin-right: 1rem;
   }
 
-  p {
+  p, pre code, ul > li, ol > li {
     font-size: 1.1rem;
   }
 
@@ -202,36 +244,6 @@ a:hover {
   ol > li {
     margin-bottom: 0.75rem;
     line-height: 1.5;
-    font-size: 1.1rem;
   }
 }
 
-pre {
-  margin: 1rem 0 2rem;
-  padding: 2em;
-  border-radius: 1em;
-  background: #313131;
-  overflow: scroll;
-}
-
-pre code {
-  font-size: 1.3rem;
-  padding-right: 1.5rem;
-}
-
-p code {  
-  background: #313131;
-  padding: 0.1rem 0.3rem;
-  border-radius: 0.4rem;
-}
-
-.controls {
-  margin-top: 3rem;
-  background: black;
-  padding: 1.2rem;
-  border-radius: 1.8rem 0.6rem;
-}
-
-.controls p {
-  margin: 0;
-}
