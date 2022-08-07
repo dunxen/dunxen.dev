@@ -40,10 +40,37 @@ body {
   background-color: var(--color-bg);
   color: var(--color-text-main);
 }
+
+header {
+  padding: 1rem;
+}
+
+header nav {
+  width: fit-content;
+  margin: auto;
+  font-family: Inconsolata;
+  text-transform: uppercase;
+}
+
+header nav ul {
+  display: flex;
+}
+
+header nav ul li {
+  text-decoration: none;
+  list-style-type: none;
+  margin: 0 1rem;
+}
+
+footer {
+  text-align: center;
+  padding: 4rem 0;
+}
+
 .wrapper {
   min-height: var(--wrapper-height);
   place-items: center;
-  margin: 3rem 2rem 12rem;
+  margin: 1.4rem 2rem 4rem;
 }
 .content {
   display: flex;

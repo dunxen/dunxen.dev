@@ -10,8 +10,18 @@
     <link rel="stylesheet" type="text/css" href="/assets/styles.css"/> {% seo "" %}
   </head>
   <body>
+    <header>
+      <nav>
+        <ul>
+	  <li><a href="/">Home</a></li>
+	  <li><a href="/blog">Blog</a></li>
+	  <li><a href="/bitcoin">₿itcoin</a></li>
+	</ul>
+      </nav>
+    </header>
     <main>
       {{ content | safe }}
     </main>
+    <footer>© Copyright 2022, Duncan Dean</footer>
   </body>
 </html>
