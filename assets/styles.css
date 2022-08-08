@@ -1,4 +1,5 @@
 @import '/assets/fonts/inter.css';
+@import '/assets/css/prism-holi-theme.css';
 
 :root {
   --color-bg: #0d1614;

@@ -15,3 +15,10 @@ more exciting nomenclature to at least try to distill what these gremlins are tr
 Look, I can't guarantee you'll find this more helpful than what's already out the, let alone amusing in
 any way. However, I'm hoping that at least one person venturing within the aqueducts of the Lightning Network
 would appreciate this take on the topic in some way or another.
+
+```js
+function main() {
+
+}
+```
+
