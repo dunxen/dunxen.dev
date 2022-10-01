@@ -12,11 +12,12 @@ I am a Bitcoin and Lightning contributor mostly spending time around [LDK](https
 
 ### Umbani Wallet
 
-I'm building [Umbani](https://umbani.app), a new cross-platform Bitcoin/LN wallet focusing on 🇿🇦 using Tauri, which will make use of:
+I'm building [Umbani](https://umbani.app), a new cross-platform Bitcoin/LN wallet focusing on 🇿🇦 , which will make use of:
 - [BDK](https://bitcoindevkit.org) for Bitcoin wallet features
 - [LDK](https://lightningdevkit.org) for Lightning Network features
 - [Nakamoto](https://github.com/cloudhead/nakamoto) as an SPV node
 - [Arti](https://gitlab.torproject.org/tpo/core/arti/) for Tor
+- ...maybe it will include [fedimint.org](https://fedimint.org) support too 👀
 
 ### My links & resources
 - ✍🏻 My blog at [dunxen.dev/blog](/blog)
