@@ -34,7 +34,7 @@ So `aB` (or equivalently, `bA`) is the shared secret that could be used for symm
 
 This provides an opportunity for us to do something interesting.
 
-Let's say that the vending machine is an "offline" node that generates an ephemeral private key `k` and corresponding public key `K` (node ID). Suppose there is also an "online" node with publick key `N` that is owned by the vending machine company. The vending machine then generates an invoice with some routing hints that the payment should go through node `N`.
+Let's say that the vending machine is an "offline" node that generates an ephemeral private key `k` and corresponding public key `K` (node ID). Suppose there is also an "online" node with public key `N` that is owned by the vending machine company. The vending machine then generates an invoice with some routing hints that the payment should go through node `N`.
 
 So we declare `N` as an intermediary routing node for `K`, which is actually impossible to route to since it is offline / disconnnected from the Lightning Network.
 
