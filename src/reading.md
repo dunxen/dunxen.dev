@@ -14,6 +14,9 @@ layout: layouts/home.njk
 1. [It Doesn't Have to Be This Way](https://www.goodreads.com/book/show/60381673-it-doesn-t-have-to-be-this-way) by Alistair Mackay
 1. [Off to Be the Wizard](https://www.goodreads.com/book/show/32858845-off-to-be-the-wizard) by Scott Meyer
 1. [Cryptonomicon](https://www.goodreads.com/book/show/816.Cryptonomicon), by Neal Stephenson
+
+### 2023
+
 1. [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) by Douglas R. Hofstadter
 
 You can follow my reading journey and connect on [Goodreads](https://www.goodreads.com/user/show/76654301-dunxen) too.
