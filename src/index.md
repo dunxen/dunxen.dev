@@ -36,6 +36,7 @@ I'm building [Umbani](https://umbani.app), a new cross-platform Bitcoin/LN walle
 - 📡 Working towards an Amateur Radio License
 - 🌌 Amateur Radio Astronomy
 - 📮 Creating a somewhat unreliable and mostly harmless ISP
+- 🐈 Designing Puss, a sucky programming language.
 
 <br><br>
 
