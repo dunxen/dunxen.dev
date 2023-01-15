@@ -23,6 +23,7 @@ I'm building [Umbani](https://umbani.app), a new cross-platform Bitcoin/LN walle
 - ✍🏻 My blog at [dunxen.dev/blog](/blog)
 - ⚛️ [The illegal physicist](/physics)
 - 📚 [My reading list](/reading)
+- 💭 [Philosophy](/philosophy)
 - 🗺 [asmap](/asmap)
 - [₿itcoin Resources](/bitcoin)
 
