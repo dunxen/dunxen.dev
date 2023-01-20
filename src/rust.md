@@ -1,3 +1,7 @@
+---
+layout: layouts/home.njk
+---
+
 # 🦀 Rust resources
 
 # Learning
