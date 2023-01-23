@@ -13,6 +13,9 @@ layout: layouts/home.njk
 * [practice.rs](https://practice.rs)
 * [Effective Rust](https://www.lurklurk.org/effective-rust/)
 * [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
+* [Memory container cheatsheet](https://github.com/usagi/rust-memory-container-cs/blob/master/3840x2160/rust-memory-container-cs-3840x2160-dark-back-high-contrast.png)
+* [Google's Comprehensive Rust](https://google.github.io/comprehensive-rust/)
+* [cheats.rs](https://cheats.rs)
 
 ## Ownership
 
