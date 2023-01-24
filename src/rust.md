@@ -16,6 +16,7 @@ layout: layouts/home.njk
 * [Memory container cheatsheet](https://github.com/usagi/rust-memory-container-cs/blob/master/3840x2160/rust-memory-container-cs-3840x2160-dark-back-high-contrast.png)
 * [Google's Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 * [cheats.rs](https://cheats.rs)
+* [Building a simple DB in Rust](https://johns.codes/blog/build-a-db/part01#what-am-i-making)
 
 ## Ownership
 
