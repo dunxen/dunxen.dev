@@ -18,6 +18,7 @@ layout: layouts/home.njk
 * [cheats.rs](https://cheats.rs)
 * [Building a simple DB in Rust](https://johns.codes/blog/build-a-db/part01#what-am-i-making)
 * [Crafting a Lox interpreter in Rust](https://www.diegofreijo.com/blog/rlox-vm-a-lox-interpreter-in-rust-part-1/)
+* [Experiment: Improving The Rust Book](https://rust-book.cs.brown.edu)
 
 ## Ownership
 
