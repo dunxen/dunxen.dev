@@ -24,6 +24,10 @@ layout: layouts/home.njk
 
 * [Rust ownership, the hard way](https://chrismorgan.info/blog/rust-ownership-the-hard-way/)
 
+## Interesting articles
+
+* [Rust's Ugly Syntax](https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html)
+
 ## API Development
 
 * [Type-driven API development](https://willcrichton.net/rust-api-type-patterns/)
