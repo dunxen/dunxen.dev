@@ -28,6 +28,7 @@ layout: layouts/home.njk
 * [transactionfee.info](https://transactionfee.info/) - Really cool Bitcoin stats and pretty graphs!
 * [Spacechains](https://youtu.be/N2ow4Q34Jeg)
 * [DLCs at Advancing Bitcoin 2022](https://vimeo.com/703271912)
+* [Vaults paper](https://jameso.be/vaults.pdf)
 
 ### Economics
 
