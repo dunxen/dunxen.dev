@@ -29,6 +29,7 @@ layout: layouts/home.njk
 * [Spacechains](https://youtu.be/N2ow4Q34Jeg)
 * [DLCs at Advancing Bitcoin 2022](https://vimeo.com/703271912)
 * [Vaults paper](https://jameso.be/vaults.pdf)
+* [Ordinal theory](https://docs.ordinals.com)
 
 ### Economics
 
