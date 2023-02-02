@@ -39,7 +39,7 @@ layout: layouts/home.njk
 
 ## Embedded
 
-* [Embedded Rust Trainings for Espressif](https://github.com/ferrous-systems/espressif-trainings_
+* [Embedded Rust Trainings for Espressif](https://github.com/ferrous-systems/espressif-trainings)
 
 ## API Development
 
