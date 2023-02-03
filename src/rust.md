@@ -24,6 +24,7 @@ layout: layouts/home.njk
 * [Experiment: Improving The Rust Book](https://rust-book.cs.brown.edu)
 * [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/introduction.html)
 * [OneTutorial - A practical journey into the Rust Programming Language](https://git.sr.ht/~gruberb/onetutorial)
+* [Zero to Production in Rust](https://www.zero2prod.com/)
 
 ## Ownership
 
