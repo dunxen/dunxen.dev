@@ -52,3 +52,4 @@ layout: layouts/home.njk
 * [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/introduction.html)
 * [Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)
 * [stdx - The missing batteries of Rust](https://github.com/brson/stdx)
+* [cryptography.rs](https://cryptography.rs/)
