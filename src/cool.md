@@ -17,3 +17,4 @@ layout: layouts/home.njk
 * [Frontend Mentor](https://frontendmentor.io)
 * [Bitcoin Search](https://bitcoinsearch.xyz)
 * [Godbolt.org](https://godbolt.org)
+* [多読](https://todaku.org)
