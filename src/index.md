@@ -27,6 +27,7 @@ I'm building [Umbani](https://umbani.app), a new cross-platform Bitcoin/LN walle
 - 🗺 [asmap](/asmap)
 - 🦀 [Rust resources](/rust)
 - [₿itcoin Resources](/bitcoin)
+- ❄️ [My curated cool list](/cool)
 
 ### Social profiles
 - 🐘 @dunxen.x0f.org on Mastodon
