@@ -37,6 +37,7 @@ layout: layouts/home.njk
 * [Generics and Compile-Time in Rust](https://www.pingcap.com/blog/generics-and-compile-time-in-rust/)
 * [Exploring Dynamic Dispatch in Rust](https://alschwalm.com/blog/static/2017/03/07/exploring-dynamic-dispatch-in-rust/)
 * [The Waker API I: what does a waker do?](https://boats.gitlab.io/blog/post/wakers-i/)
+* [The bottom emoji breaks rust-analyzer](https://fasterthanli.me/articles/the-bottom-emoji-breaks-rust-analyzer)
 
 ## Embedded
 
