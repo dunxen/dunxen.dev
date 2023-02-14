@@ -38,6 +38,7 @@ layout: layouts/home.njk
 * [Exploring Dynamic Dispatch in Rust](https://alschwalm.com/blog/static/2017/03/07/exploring-dynamic-dispatch-in-rust/)
 * [The Waker API I: what does a waker do?](https://boats.gitlab.io/blog/post/wakers-i/)
 * [The bottom emoji breaks rust-analyzer](https://fasterthanli.me/articles/the-bottom-emoji-breaks-rust-analyzer)
+* [Rust vs. Haskell](https://serokell.io/blog/rust-vs-haskell)
 
 ## Embedded
 
