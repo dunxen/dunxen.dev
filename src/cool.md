@@ -25,3 +25,4 @@ layout: layouts/home.njk
 * [bolt11.org](https://www.bolt11.org/)
 * [bolt12.org](https://www.bolt12.org/)
 * [Natively](https://learnnatively.com/)
+* [Honto](https://honto.jp/)
