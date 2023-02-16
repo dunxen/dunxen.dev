@@ -26,3 +26,5 @@ layout: layouts/home.njk
 * [bolt12.org](https://www.bolt12.org/)
 * [Natively](https://learnnatively.com/)
 * [Honto](https://honto.jp/)
+* [Codex32](https://secretcodex32.com)
+
