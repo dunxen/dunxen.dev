@@ -30,23 +30,25 @@ layout: layouts/home.njk
 * [DLCs at Advancing Bitcoin 2022](https://vimeo.com/703271912)
 * [Vaults paper](https://jameso.be/vaults.pdf)
 * [Ordinal theory](https://docs.ordinals.com)
+* [Nodl](https://www.nodl.eu)
+* [Bitcoin.design](https://bitcoin.design)
+* [Bitcoin Search](https://bitcoinsearch.xyz)
+* [Bitcoin Stackexchange](https://bitcoin.stackexchange.com/)
+* [bolt11.org](https://www.bolt11.org/)
+* [bolt12.org](https://www.bolt12.org/)
+* [Codex32](https://secretcodex32.com)
 
 ### Economics
 
 * [Why Bitcoin (Wiz)](https://medium.com/@wiz/why-bitcoin-359ada12629e)
 * [Cryptoeconomics (libbitcoin)](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics)
 * [ASICs and decentralization (Poelstra)](https://download.wpsoftware.net/bitcoin/asic-faq.pdf)
-* [The bullish case for bitcoin](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1)
 * [Shelling out: The origins of money](https://nakamotoinstitute.org/shelling-out/)
 * [Bitcoin for safety](https://jameso.be/2019/08/24/bitcoin-is-for-this.html)
 * [Check your financial privilege](https://bitcoinmagazine.com/culture/check-your-financial-privilege)
-* [The monetary case for bitcoin](https://medium.com/coinmonks/the-monetary-case-for-bitcoin-778cd51ff272)
-* [Masters and slaves of Money](https://breedlove22.medium.com/masters-and-slaves-of-money-255ecc93404f)
-* [Reject Nocoiner orthodoxy](https://elaineou.com/2018/10/10/reject-nocoiner-orthodoxy/)
 * [Financial freedom in the post-cash world](https://www.cato.org/cato-journal/spring/summer-2021/financial-freedom-privacy-post-cash-world#)
 * [Fighting monetary colonialism](https://bitcoinmagazine.com/culture/bitcoin-a-currency-of-decolonization)
 * [The humanitarian case for Bitcoin](https://bitcoinmagazine.com/culture/bitcoin-is-humanitarian-and-environmental)
-* [Bitcoin is a trojan horse for freedom](https://bitcoinmagazine.com/culture/bitcoin-is-a-trojan-horse-for-freedom)
 
 ### Energy
 
@@ -57,10 +59,6 @@ layout: layouts/home.njk
 * [Bitcoin does not waste energy](https://unchained.com/blog/bitcoin-does-not-waste-energy/)
 * [Bitcoin is not backed by nothing](https://unchained.com/blog/bitcoin-is-not-backed-by-nothing/)
 
-### Lightning
-
-* [Lightning Network - Fundamental Limitations (Truthcoin)](http://www.truthcoin.info/blog/lightning-limitations/)
-
 ### Miscellaneous
 
 * [In defense of Bitcoin Maximalism (Vitalk Buterin)](https://vitalik.ca/general/2022/04/01/maximalist.html)
@@ -70,3 +68,4 @@ layout: layouts/home.njk
 * [Books recommended by Bitcoiners (all genres)](https://www.bitcoinerbooks.com/)
 * [Search Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/search?q=%s)
 * [Freelancing platforms which pay in Bitcoin](https://cointastical.medium.com/freelancing-platforms-which-pay-in-bitcoin-e38be56166df)
+* [Freethink](https://www.freethink.com)
