@@ -8,16 +8,16 @@ layout: layouts/home.njk
 
 # dunxen.dev
 
-I am a Bitcoin and Lightning contributor mostly spending time around [LDK](https://lightningdevkit.org) and [Bitcoin Core](https://github.com/bitcoin/bitcoin). Previously studied physics and maths at the University of Pretoria, had ~~a failed startup~~ prompt business studies exposure, and quit my day job at [Luno](https://luno.com) (April 2019 - February 2022). Mentor, mentee, and continuously learning.
+I am a Bitcoin and Lightning contributor mostly spending time around [LDK](https://lightningdevkit.org) and [Bitcoin Core](https://github.com/bitcoin/bitcoin). Previously studied physics and maths at the University of Pretoria, had ~~a failed startup~~ prompt business studies exposure, and quit my day job at [Luno](https://luno.com) (April 2019 - February 2022). Faculty at [Qala](https://qala.dev). Mentor, mentee, and continuously learning.
 
 ### Umbani Wallet
 
-I'm building [Umbani](https://umbani.app), a new cross-platform Bitcoin/LN wallet focusing on 🇿🇦 , which will make use of:
+I'm building Marula 🍑, a new cross-platform Bitcoin/LN wallet focusing on 🇿🇦 , which will make use of:
 - [BDK](https://bitcoindevkit.org) for Bitcoin wallet features
 - [LDK](https://lightningdevkit.org) for Lightning Network features
 - [Nakamoto](https://github.com/cloudhead/nakamoto) as an SPV node
 - [Arti](https://gitlab.torproject.org/tpo/core/arti/) for Tor
-- ...maybe it will include [fedimint.org](https://fedimint.org) support too 👀
+- [Fedimint Ecash](https://fedimint.org) support
 
 ### My links & resources
 - ✍🏻 My blog at [dunxen.dev/blog](/blog)
