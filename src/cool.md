@@ -2,11 +2,13 @@
 layout: layouts/home.njk
 ---
 
-# Cool blogs / articles / stuff I like
+## General blogs / articles / stuff I like
 
 * [Reimbar](https://reimbar.org/)
-
 * [Schnorr Blind Signatures](https://blindsigs.utxo.club)
+* [The 1-3-5 Rule](https://www.timedoctor.com/blog/1-3-5-rule)
+* [How to use Obsidian as a Zettelkasten](https://mattgiaro.com/obsidian-zettelkasten/)
+* [Rome.tools](https://rome.tools/)
 
 ## Software Engineering & Computer Architecture
 
@@ -16,6 +18,7 @@ layout: layouts/home.njk
 * [Surma's Blog](https://surma.dev)
 * [Godbolt.org](https://godbolt.org)
 * [Frontend Mentor](https://frontendmentor.io)
+* [Novu](https://novu.co/)
 
 ## Japanese
 * [Natively](https://learnnatively.com/)
