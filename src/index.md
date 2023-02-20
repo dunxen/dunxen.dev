@@ -45,5 +45,7 @@ I'm building Marula 🍑, a new cross-platform Bitcoin/LN wallet focusing on �
 <br><br>
 
 🔑 [9484 44FC E03B 05BA 5AB0](https://keys.openpgp.org/search?q=948444FCE03B05BA5AB0591EC37B1C1D44C786EE)
+freedom of [information](https://annas-archive.org/about)
 
 _Mostly_ harmless
+
