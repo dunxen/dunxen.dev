@@ -9,6 +9,7 @@ layout: layouts/home.njk
 * [The 1-3-5 Rule](https://www.timedoctor.com/blog/1-3-5-rule)
 * [How to use Obsidian as a Zettelkasten](https://mattgiaro.com/obsidian-zettelkasten/)
 * [Rome.tools](https://rome.tools/)
+* [AlphaFold Protein DB](https://alphafold.ebi.ac.uk)
 
 ## Software Engineering & Computer Architecture
 
