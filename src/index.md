@@ -13,34 +13,42 @@ I am a Bitcoin and Lightning contributor mostly spending time around [LDK](https
 ### Umbani Wallet
 
 I'm building Marula 🍑, a new cross-platform Bitcoin/LN wallet focusing on 🇿🇦 , which will make use of:
-- [BDK](https://bitcoindevkit.org) for Bitcoin wallet features
-- [LDK](https://lightningdevkit.org) for Lightning Network features
-- [Nakamoto](https://github.com/cloudhead/nakamoto) as an SPV node
-- [Arti](https://gitlab.torproject.org/tpo/core/arti/) for Tor
-- [Fedimint Ecash](https://fedimint.org) support
+
+-   [BDK](https://bitcoindevkit.org) for Bitcoin wallet features
+-   [LDK](https://lightningdevkit.org) for Lightning Network features
+-   [Nakamoto](https://github.com/cloudhead/nakamoto) as an SPV node
+-   [Arti](https://gitlab.torproject.org/tpo/core/arti/) for Tor
+-   [Fedimint Ecash](https://fedimint.org) support
 
 ### My links & resources
-- ✍🏻 My blog at [dunxen.dev/blog](/blog)
-- ⚛️ [The illegal physicist](/physics)
-- 📚 [My reading list](/reading)
-- 💭 [Philosophy](/philosophy)
-- 🗺 [asmap](/asmap)
-- 🦀 [Rust resources](/rust)
-- [₿itcoin Resources](/bitcoin)
-- ❄️ [My curated cool list](/cool)
+
+-   ✍🏻 My blog at [dunxen.dev/blog](/blog)
+-   ⚛️ [The illegal physicist](/physics)
+-   📚 [My reading list](/reading)
+-   💭 [Philosophy](/philosophy)
+-   🗺 [asmap](/asmap)
+-   🦀 [Rust resources](/rust)
+-   [₿itcoin Resources](/bitcoin)
+-   ❄️ [My curated cool list](/cool)
 
 ### Social profiles
-- 🐘 @dunxen.x0f.org on Mastodon
-- 🐦 [@dunxen](https://twitter.com/dunxen) on Twitter
-- 🐙 [@dunxen](https://github.com/dunxen) on GitHub
-- 💬 dunxen on [Libera.Chat](https://libera.chat/) IRC
+
+-   🐘 @dunxen.x0f.org on Mastodon
+-   🐦 [@dunxen](https://twitter.com/dunxen) on Twitter
+-   🐙 [@dunxen](https://github.com/dunxen) on GitHub
+-   💬 dunxen on [Libera.Chat](https://libera.chat/) IRC
 
 ### Some current interests & future things I'd like to do
-- 📡 Working towards an Amateur Radio License
-- 🌌 Amateur Radio Astronomy
-- 📮 Creating a somewhat unreliable and mostly harmless ISP
-- 🐈 Designing Puss, a sucky programming language.
-- 🥘 Cooking up some lekker stuff
+
+-   📡 Working towards an Amateur Radio License
+-   🌌 Amateur Radio Astronomy
+-   📮 Creating a somewhat unreliable and mostly harmless ISP
+-   🐈 Designing Puss, a sucky programming language.
+-   🥘 Cooking up some lekker stuff
+
+### Sponsorship
+
+-   [Sponsor](https://github.com/sponsors/dunxen) me if you like what I do :)
 
 <br><br>
 
@@ -49,4 +57,3 @@ I'm building Marula 🍑, a new cross-platform Bitcoin/LN wallet focusing on �
 freedom of [information](https://annas-archive.org/about)
 
 _Mostly_ harmless
-
