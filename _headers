@@ -3,7 +3,7 @@
   X-Content-Type-Options: nosniff
   X-XSS-Protection: 1; mode=block
   Referrer-Policy: no-referrer, strict-origin-when-cross-origin
-  Content-Security-Policy: default-src 'none'; font-src 'self'; img-src 'self'; script-src 'self'; style-src 'self'; object-src 'none'; require-trusted-types-for 'script'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+  Content-Security-Policy: default-src 'none'; font-src 'self'; img-src 'self'; script-src 'self'; style-src 'self'; object-src 'none'; require-trusted-types-for 'script'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; frame-src https://example.com/
   Cross-Origin-Embedder-Policy: require-corp
   Cross-Origin-Opener-Policy: same-origin
   Cross-Origin-Resource-Policy: same-origin
