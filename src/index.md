@@ -3,24 +3,28 @@ layout: layouts/home.njk
 ---
 
 <div class="illo-container">
-  <img src="/assets/images/moon.png" class="illustration" alt="Moon">
+  <img src="/assets/images/spacedog.png" class="illustration" alt="Dachshund in a spacesuit">
 </div>
 
 # dunxen.dev
 
-I am a Bitcoin and Lightning contributor mostly spending time around [LDK](https://lightningdevkit.org) and [Bitcoin Core](https://github.com/bitcoin/bitcoin). Previously studied physics and maths at the University of Pretoria, had ~~a failed startup~~ prompt business studies exposure, and quit my day job at [Luno](https://luno.com) (April 2019 - February 2022). Faculty at [Qala](https://qala.dev). Mentor, mentee, and continuously learning.
+I am a Bitcoin and Lightning contributor mostly spending time around [LDK](https://lightningdevkit.org) and sometimes [Bitcoin Core](https://github.com/bitcoin/bitcoin).
+Obtained a BSc. Physics at the University of Pretoria, did some freelancing, and quit my day job at [Luno](https://luno.com) (April 2019 - February 2022).
+Faculty at [Qala](https://qala.dev).
+Working under my private entity, [neXed](https://nexed.works).
+Mentor, mentee, and continuously learning.
 
-### Umbani Wallet
+### Marula
 
-I'm building Marula 🍑, a new cross-platform Bitcoin/LN wallet focusing on 🇿🇦 , which will make use of:
+As a side quest I'm building Marula 🍑, a new cross-platform Bitcoin/LN app focusing on 🇿🇦 , which will make use of:
 
 -   [BDK](https://bitcoindevkit.org) for Bitcoin wallet features
 -   [LDK](https://lightningdevkit.org) for Lightning Network features
 -   [Nakamoto](https://github.com/cloudhead/nakamoto) as an SPV node
 -   [Arti](https://gitlab.torproject.org/tpo/core/arti/) for Tor
--   [Fedimint Ecash](https://fedimint.org) support
+-   [Fedimint](https://fedimint.org) support
 
-### My links & resources
+### Links & resources
 
 -   ✍🏻 My blog at [dunxen.dev/blog](/blog)
 -   ⚛️ [The illegal physicist](/physics)
@@ -30,10 +34,13 @@ I'm building Marula 🍑, a new cross-platform Bitcoin/LN wallet focusing on �
 -   🦀 [Rust resources](/rust)
 -   [₿itcoin Resources](/bitcoin)
 -   ❄️ [My curated cool list](/cool)
+    (Speaking of cool, check my Nix [flake](ssh://git.dunxen.dev/flake))
 
 ### Social profiles
 
--   🐘 @dunxen.x0f.org on Mastodon
+-   ✍🏻 [@dunxen.dev](https://staging.bsky.app/profile/dunxen.dev) on Bluesky ([ATProtocol](https://atproto.com/))
+-   🦤 [@npub1gxr0nutz03u7rgquguq2sk24nzygtvq08a5malyu4epjaxhzae8qfqmjeu (dunxen.dev)](https://coracle.social/people/npub1gxr0nutz03u7rgquguq2sk24nzygtvq08a5malyu4epjaxhzae8qfqmjeu/notes) on Nostr.
+-   🐘 [@dunxen.x0f.org](https://elk.zone/x0f.org/@dunxen) on Mastodon
 -   🐦 [@dunxen](https://twitter.com/dunxen) on Twitter
 -   🐙 [@dunxen](https://github.com/dunxen) on GitHub
 -   💬 dunxen on [Libera.Chat](https://libera.chat/) IRC
@@ -42,9 +49,9 @@ I'm building Marula 🍑, a new cross-platform Bitcoin/LN wallet focusing on �
 
 -   📡 Working towards an Amateur Radio License
 -   🌌 Amateur Radio Astronomy
--   📮 Creating a somewhat unreliable and mostly harmless ISP
--   🐈 Designing Puss, a sucky programming language.
--   🥘 Cooking up some lekker stuff
+-   📮 Creating a somewhat unreliable and mostly harmless ISP for neXed
+-   🐈 Designing Puss, a sucky programming language
+-   🥘 Cooking up some lekker stuff, mostly Indian!
 
 ### Sponsorship
 
