@@ -39,7 +39,7 @@ As a side quest I'm building Marula 🍑, a new cross-platform Bitcoin/LN app fo
 ### Social profiles
 
 -   ✍🏻 [@dunxen.dev](https://staging.bsky.app/profile/dunxen.dev) on Bluesky ([ATProtocol](https://atproto.com/))
--   🦤 [@npub1gxr0nutz03u7rgquguq2sk24nzygtvq08a5malyu4epjaxhzae8qfqmjeu (dunxen.dev)](https://coracle.social/people/npub1gxr0nutz03u7rgquguq2sk24nzygtvq08a5malyu4epjaxhzae8qfqmjeu/notes) on Nostr.
+-   🦤 [@npub1gxr0nut...fqmjeu](https://coracle.social/people/npub1gxr0nutz03u7rgquguq2sk24nzygtvq08a5malyu4epjaxhzae8qfqmjeu/notes) on Nostr.
 -   🐘 [@dunxen.x0f.org](https://elk.zone/x0f.org/@dunxen) on Mastodon
 -   🐦 [@dunxen](https://twitter.com/dunxen) on Twitter
 -   🐙 [@dunxen](https://github.com/dunxen) on GitHub
