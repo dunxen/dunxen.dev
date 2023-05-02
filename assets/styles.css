@@ -170,7 +170,7 @@ a:hover {
 }
 .illo-container {
   display: flex;
-  justify-content: flex-end;
+  justify-content: flex-start;
 }
 .illustration {
   max-width: 200px;
