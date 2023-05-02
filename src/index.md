@@ -3,7 +3,7 @@ layout: layouts/home.njk
 ---
 
 <div class="illo-container">
-  <img src="/assets/images/spacedog.png" class="illustration" alt="Dachshund in a spacesuit">
+  <img src="/assets/images/spacedog.webp" class="illustration" alt="Dachshund in a spacesuit">
 </div>
 
 # dunxen.dev
