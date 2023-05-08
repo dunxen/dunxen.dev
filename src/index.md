@@ -80,6 +80,6 @@ _Mostly_ harmless
 [Libera.Chat]: https://libera.chat
 [Sponsor me]: https://github.com/sponsors/dunxen
 [9484 44FC E03B 05BA 5AB0]: https://keys.openpgp.org/search?q=948444FCE03B05BA5AB0591EC37B1C1D44C786EE
-[freedom of information]: https://twitter.com/_JamesWard/status/1614143012124200960?s=20
+[freedom of information]: https://annas-archive.org/
 [@npub1gxr0nut...fqmjeu]: https://coracle.social/people/npub1gxr0nutz03u7rgquguq2sk24nzygtvq08a5malyu4epjaxhzae8qfqmjeu/notes
 [Luno]: https://luno.com
