@@ -4,7 +4,8 @@ layout: layouts/home.njk
 
 # Bitcoin Resources
 
-(Shamelessly stolen from [@willcl-ark](https://github.com/willcl-ark) and expanded upon)
+A curated list of Bitcoin Resources (mostly technical) that I find interesting.
+Based off of Will Clark's list.
 
 ### Technical
 
@@ -37,6 +38,14 @@ layout: layouts/home.njk
 * [bolt11.org](https://www.bolt11.org/)
 * [bolt12.org](https://www.bolt12.org/)
 * [Codex32](https://secretcodex32.com)
+* [Ark (Layer 2)](https://www.arkpill.me/deep-dive)
+* [Bitcoiner.Guide](https://bitcoiner.guide/)
+* [Proposal for a new mempool design](https://github.com/bitcoin/bitcoin/issues/27677)
+* [RFC - Payment pools and co-ownership of coinbase reward](https://docs.google.com/document/d/1qiOOSOT7epX658_nhjz-jj0DlnSRvytemOv_u_OtMcc/mobilebasic#heading=h.7dstfvvel7rr)
+* [Burak's Blog](https://buraks.blog)
+* [James O'Beirne OP_VAULT Twitter thread](https://twitter.com/jamesob/status/1639019107432513537)
+* [Bitcoin Rollups](https://bitcoinrollups.org/)
+* [Silent Payments (Reusable Addresses)](https://gist.github.com/RubenSomsen/c43b79517e7cb701ebf77eec6dbb46b8)
 
 ### Economics
 
@@ -61,7 +70,6 @@ layout: layouts/home.njk
 
 ### Miscellaneous
 
-* [In defense of Bitcoin Maximalism (Vitalk Buterin)](https://vitalik.ca/general/2022/04/01/maximalist.html)
 * [The Bitcoin Library](https://casebitcoin.com/library)
 * [Who controls Bitcoin Core (Lopp)](https://blog.lopp.net/who-controls-bitcoin-core-/)
 * [Bitcoinstrings.com (OP_RETURN)](https://bitcoinstrings.com/)

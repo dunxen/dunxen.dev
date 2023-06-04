@@ -20,8 +20,10 @@ layout: layouts/home.njk
 * [Godbolt.org](https://godbolt.org)
 * [Frontend Mentor](https://frontendmentor.io)
 * [Novu](https://novu.co/)
+* [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 ## Japanese
+
 * [Natively](https://learnnatively.com/)
 * [Honto](https://honto.jp/)
 * [Oji Shop](https://ojishop.com)
@@ -32,5 +34,4 @@ layout: layouts/home.njk
 
 ## South Africa
 * [Desmond Latham's Blog and History of South Africa Podcast](desmondlatham.blog)
-
 
