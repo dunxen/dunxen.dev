@@ -3,14 +3,14 @@ layout: layouts/home.njk
 ---
 
 <div class="illo-container">
-  <img src="/assets/images/spacedog.webp" class="illustration" alt="Dachshund in a spacesuit">
+  <img src="/assets/images/profile.avif" class="profile-picture" alt="Picture of Duncan">
 </div>
 
 # dunxen.dev
 
-I am a Bitcoin and Lightning contributor mostly spending time around [LDK] and sometimes [Bitcoin Core]. Obtained a BSc Physics at the University of Pretoria,
+I am a Bitcoin and Lightning contributor mostly spending time on [LDK] and sometimes [Bitcoin Core]. Obtained a BSc Physics at the University of Pretoria,
 did some freelancing, and quit my day job at [Luno] (April 2019 - February 2022). Faculty at [Qala]. Working under my private entity, [neXed].
-Fan of Rust, NixOS, WebAssembly, and Domain Driven Design and moduliths (modular monoliths). Mentor, mentee, and continuously learning.
+Fan of Rust, NixOS and WebAssembly.
 
 ### Marula
 
@@ -32,7 +32,7 @@ As a side quest I'm building [Marula] 🍑, a new cross-platform Bitcoin/LN app 
 -   🦀 [Rust resources](/rust)
 -   [₿itcoin Resources](/bitcoin)
 -   ❄️ [My curated cool list](/cool)
-    (Speaking of cool, check my Nix [flake](ssh://git.dunxen.dev/flake))
+    (Speaking of cool, check my Nix [flake](https://github.com/dunxen/flake))
 
 ### Social profiles
 
@@ -81,5 +81,5 @@ _Mostly_ harmless
 [Sponsor me]: https://github.com/sponsors/dunxen
 [9484 44FC E03B 05BA 5AB0]: https://keys.openpgp.org/search?q=948444FCE03B05BA5AB0591EC37B1C1D44C786EE
 [freedom of information]: https://annas-archive.org/
-[@npub1gxr0nut...fqmjeu]: https://coracle.social/people/npub1gxr0nutz03u7rgquguq2sk24nzygtvq08a5malyu4epjaxhzae8qfqmjeu/notes
+[@npub1gxr0nut...fqmjeu]: https://primal.net/p/npub1gxr0nutz03u7rgquguq2sk24nzygtvq08a5malyu4epjaxhzae8qfqmjeu/notes
 [Luno]: https://luno.com
