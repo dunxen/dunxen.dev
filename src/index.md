@@ -3,16 +3,14 @@ layout: layouts/home.njk
 ---
 
 <div class="illo-container">
-  <img src="/assets/images/profile.avif" class="profile-picture" alt="Picture of Duncan">
+  <img src="/assets/images/logo.avif" class="profile-picture" alt="Electrical Intersection Unicode Character">
 </div>
 
-# dunxen.dev
-
 I am a Bitcoin and Lightning contributor mostly spending time on [LDK] and sometimes [Bitcoin Core]. Obtained a BSc Physics at the University of Pretoria,
-did some freelancing, and quit my day job at [Luno] (April 2019 - February 2022). Faculty at [Qala]. Working under my private entity, [neXed].
+did some freelancing, and quit my day job at [Luno] (April 2019 - February 2022). Faculty at [Qala]. Working under my private entity, [ne⏧ed].
 Fan of Rust, NixOS and WebAssembly.
 
-### Marula
+<!-- ### Marula
 
 As a side quest I'm building [Marula] 🍑, a new cross-platform Bitcoin/LN app focusing on 🇿🇦 , which will make use of:
 
@@ -20,7 +18,7 @@ As a side quest I'm building [Marula] 🍑, a new cross-platform Bitcoin/LN app 
 -   [LDK] for Lightning Network features
 -   [Nakamoto] as an SPV node
 -   [Arti] for Tor
--   [Fedimint] support
+-   [Fedimint] support -->
 
 ### Links & resources
 
@@ -28,7 +26,6 @@ As a side quest I'm building [Marula] 🍑, a new cross-platform Bitcoin/LN app 
 -   ⚛️ [The illegal physicist](/physics)
 -   📚 [My reading list](/reading)
 -   💭 [Philosophy](/philosophy)
--   🗺 [asmap](/asmap)
 -   🦀 [Rust resources](/rust)
 -   [₿itcoin Resources](/bitcoin)
 -   ❄️ [My curated cool list](/cool)
@@ -47,7 +44,7 @@ As a side quest I'm building [Marula] 🍑, a new cross-platform Bitcoin/LN app 
 
 -   📡 Working towards an Amateur Radio License
 -   🌌 Amateur Radio Astronomy
--   📮 Creating a somewhat unreliable and mostly harmless ISP for neXed
+-   📮 Creating a somewhat unreliable and mostly harmless ISP for ne⏧ed
 -   🐈 Designing Puss, a sucky programming language
 -   🥘 Cooking up some lekker stuff, mostly Indian!
 
@@ -59,14 +56,12 @@ As a side quest I'm building [Marula] 🍑, a new cross-platform Bitcoin/LN app 
 
 🔑 [9484 44FC E03B 05BA 5AB0]
 
-[freedom of information]
-
 _Mostly_ harmless
 
 [LDK]: https://lightningdevkit.org
 [Bitcoin Core]: https://github.com/bitcoin/bitcoin
 [Qala]: https://qala.dev
-[neXed]: https://nexed.works
+[ne⏧ed]: https://github.com/nexedworks
 [BDK]: https://bitcoindevkit.org
 [Nakamoto]: https://github.com/cloudhead/nakamoto
 [Marula]: https://github.com/nexedworks/marula
@@ -80,6 +75,5 @@ _Mostly_ harmless
 [Libera.Chat]: https://libera.chat
 [Sponsor me]: https://github.com/sponsors/dunxen
 [9484 44FC E03B 05BA 5AB0]: https://keys.openpgp.org/search?q=948444FCE03B05BA5AB0591EC37B1C1D44C786EE
-[freedom of information]: https://annas-archive.org/
 [@npub1gxr0nut...fqmjeu]: https://primal.net/p/npub1gxr0nutz03u7rgquguq2sk24nzygtvq08a5malyu4epjaxhzae8qfqmjeu/notes
 [Luno]: https://luno.com

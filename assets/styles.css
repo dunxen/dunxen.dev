@@ -170,14 +170,15 @@ a:hover {
 }
 .illo-container {
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
 }
 .profile-picture {
-  max-width: 200px;
+  max-width: 100px;
   max-height: var(--image-max-width);
   margin-top: 1rem;
-  margin-right: 2rem;
+  margin-bottom: 3rem;
   border-radius: 100%;
+  border: 3px solid var(--color-text-main);
 }
 
 /* Layout: Post */
@@ -241,13 +242,6 @@ p code {
   h2 {
     font-size: 2.6rem;
   }
-
-  .profile-picture {
-    max-width: 150px;
-    max-height: var(--image-max-width);
-    margin-top: 1rem;
-    margin-right: 2rem;
-  }
 }
 
 @media screen and (max-width: 420px) {
@@ -257,12 +251,6 @@ p code {
 
   h2 {
     font-size: 1.6rem;
-  }
-
-  .profile-picture {
-    max-width: 100px;
-    margin-top: 0rem;
-    margin-right: 1rem;
   }
 
   p, pre code, ul > li, ol > li {
